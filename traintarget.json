@@ -1,0 +1,15 @@
+{"target":[
+    {"tag": "hello",
+    "patterns":["greetings", "hi", "it's a good day", "hello my friend" ],
+    "response":["Hello", "Hey dude", "Something happened?"]},
+    {"tag": "hours",
+    "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
+    "response": ["I am a robot, i am 24/7 open. What else do you expect"]},
+    {"tag": "shop",
+    "patterns": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+    "response": ["I am not a store, i am just a robot.", "I said i was a robot, not a store."]},
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "response": ["You can call me Tim.", "I'm Tim!", "I'm Tim aka Tech With Tim."]}
+    
+    ]}
